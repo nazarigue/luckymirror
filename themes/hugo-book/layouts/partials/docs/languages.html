@@ -1,4 +1,4 @@
-<!-- Merge home and current page translations 
+<!-- Merge home and current page translations -->
 {{ $translations := dict }}
 {{ range .Site.Home.AllTranslations }}
   {{ $translations = merge $translations (dict .Language.Lang .) }}
@@ -28,4 +28,3 @@
 
 </div>
 
--->
