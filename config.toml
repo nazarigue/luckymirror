@@ -26,15 +26,10 @@ enableGitInfo = false
   contentDir = 'content'
   weight = 1
 
-#[languages.ru]
-#  languageName = 'Russian'
-#  contentDir = 'content.ru'
-#  weight = 2
-
-#[languages.cn]
-#  languageName = 'Estonian'
-#  contentDir = 'content.ee'
-#  weight = 3
+[languages.ru]
+  languageName = 'Russian'
+  contentDir = 'content.ru'
+  weight = 2
 
 #[menu]
 # [[menu.before]]
