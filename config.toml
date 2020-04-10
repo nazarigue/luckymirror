@@ -26,10 +26,6 @@ enableGitInfo = false
   contentDir = 'content'
   weight = 1
 
-[languages.ru]
-  languageName = 'Russian'
-  contentDir = 'content.ru'
-  weight = 2
 
 #[menu]
 # [[menu.before]]
