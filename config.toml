@@ -26,15 +26,15 @@ enableGitInfo = false
   contentDir = 'content'
   weight = 1
 
-[languages.ru]
-  languageName = 'Russian'
-  contentDir = 'content.ru'
-  weight = 2
+#[languages.ru]
+#  languageName = 'Russian'
+#  contentDir = 'content.ru'
+#  weight = 2
 
-[languages.cn]
-  languageName = 'Estonian'
-  contentDir = 'content.ee'
-  weight = 3
+#[languages.cn]
+#  languageName = 'Estonian'
+#  contentDir = 'content.ee'
+#  weight = 3
 
 #[menu]
 # [[menu.before]]
@@ -74,7 +74,7 @@ BookLogo = '../go-logo.png'
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Path must point to 'content' directory of repo.
-  BookEditPath = 'edit/master/exampleSite/content'
+  # BookEditPath = '/'
 
   # Configure the date format used on the pages
   # - In git information
