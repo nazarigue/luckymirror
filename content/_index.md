@@ -1,41 +1,53 @@
 ---
-title: Introduction
+title: Welcome!
 type: docs
 ---
 
-# Acerbo datus maxime
+![Go Academy](cover-big.png "Go Academy Banner")
 
-{{< columns >}}
-## Astris ipse furtiva
+# 📜 Course Description
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+This course is designed for beginners to enrich knowledge about computer and the internet. How obvious it isn’t, 90% of computer and Internet users are illiterate when it comes to a wider and deeper knowledge on how it actually works. The goal of this course is bring this stat 1% down.
 
-<--->
+This is not systematic going deep into details course. This is a roadmap, to show what can you do and what you don't know. If this sparks any initiative inside you, it has already accomplished its mission. Some parts are hectic, since the human brain needs to be injected some times different dimensions of information that the brain itself will organise later.
 
-## Suis quot vota
+The main outcome of this course is to deliver knowledge, that is useful to you. Remember, useful means something you can use, to achieve your goals!
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+# Schedule
+
+{{< hint info >}}
+**First lecture**  
+First lecture starts at **26.04.2020** 10:00-13:00. 
+{{< /hint >}}
+{{< hint info >}}
+**Second lecture**  
+First lecture starts at **03.05.2020** 10:00-13:00.
+{{< /hint >}}
+{{< hint info >}}
+**Second lecture**  
+First lecture starts at **10.05.2020** 10:00-13:00.
+{{< /hint >}}
+
+# Registration
+{{< hint danger >}}
+**Registration**  
+All participants must register and be a part of feedback infrastructure. [Add lectures to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWg2bWhwYms2c2E2MG0xcG92djNydGN1bW5fMjAyMDA0MjZUMDcwMDAwWiBuYXpAYWxpZ25lci5pbw&tmsrc=naz%40aligner.io&scp=ALL )
+{{< /hint >}}
+
+{{< button href="https://calendar.google.com/calendar/ical/aligner.io_kd9tvlg6i7pa4pg3k3kh95mouk%40group.calendar.google.com/public/basic.ics" >}}Import Calendar {{< /button >}}
+{{< button href="https://calendar.google.com/event?action=TEMPLATE&tmeid=NWg2bWhwYms2c2E2MG0xcG92djNydGN1bW5fMjAyMDA0MjZUMDcwMDAwWiBhbGlnbmVyLmlvX2tkOXR2bGc2aTdwYTRwZzNrM2toOTVtb3VrQGc&tmsrc=aligner.io_kd9tvlg6i7pa4pg3k3kh95mouk%40group.calendar.google.com&scp=ALL" >}}Google Calendar Invite {{< /button >}}
 
 
-## Tempora nisi nunc
+# Prerequisites for software:
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+- Computer
+- Latest OS on any system, Mac or Windows
+- Latest Chrome or Chromium-based browser
+- Gmail account
+- Anaconda environment
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+{{< button href="https://www.anaconda.com" >}}Get Anaconda{{< /button >}}
 
-## Locis suis novi cum suoque decidit eadem
+{{< button href="https://www.brave.com" >}}Get Brave browser {{< /button >}}
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+{{< button href="https://www.google.com/chrome/" >}}Get Chrome browser {{< /button >}}
