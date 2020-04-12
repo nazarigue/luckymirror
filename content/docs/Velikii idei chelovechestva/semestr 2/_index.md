@@ -1,5 +1,5 @@
 ---
-bookCollapseSection: true
+bookCollapseSection: false
 bookFlatSection: false
 weight: 2
 title: Великие книги человечества
